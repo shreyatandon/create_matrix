@@ -4,7 +4,7 @@ using namespace std;
 class Mat33
 {
 public:
-	double data[2][2];
+	double data[3][3];
 	Mat33(double r0c0, double r0c1, double r0c2 ,
 		double r1c0, double r1c1, double r1c2, 
 		double r2c0, double r2c1, double r2c2)
